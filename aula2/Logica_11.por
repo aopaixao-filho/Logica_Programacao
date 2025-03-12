@@ -14,7 +14,7 @@ programa
 		escreva("\nInsira a nota 4: ")
 		leia(nota4)
 
-		media = (nota1 + nota2 + nota3 + nota4) /2
+		media = (nota1 + nota2 + nota3 + nota4) /4
 
 		se(media < 7){
 			escreva("Reprovado")
